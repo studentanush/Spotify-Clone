@@ -1,0 +1,4 @@
+/* To make the scroll bar invisible*/
+::-webkit-scrollbar{
+  display:none
+}
